@@ -44,4 +44,4 @@ cue's [privacy policy](https://cue.humanmeetsai.com/privacy) describes the servi
 - [Terms of service](https://cue.humanmeetsai.com/terms)
 - [Acceptable use](https://cue.humanmeetsai.com/acceptable-use)
 
-The service is operated by HUMANMEETSAI PTE. LTD., Singapore (UEN 201901706Z), formerly DEYI MEDICAL CONSULTING PTE. LTD. The legal company name changed on 11 November 2026. The current public service policy pages still carry the former name and require alignment before submission. The [Cue Plugin License](LICENSE) permits installing and using this integration with Cue and using its included icon to identify Cue within the integration. Other rights are reserved. The hosted service remains subject to its separate terms.
+The service is operated by HUMANMEETSAI PTE. LTD., Singapore (UEN 201901706Z), formerly DEYI MEDICAL CONSULTING PTE. LTD. The legal company name changed on 11 November 2026. The [Cue Plugin License](LICENSE) permits installing and using this integration with Cue and using its included icon to identify Cue within the integration. Other rights are reserved. The hosted service remains subject to its separate terms.
