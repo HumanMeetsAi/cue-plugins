@@ -1,7 +1,7 @@
 {
   "name": "cue-decks",
   "displayName": "Cue — Beyond Slides",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create, edit, and publish animated presentations and print-ready documents on cue. Connect your account to work on decks, share them, and review reader feedback.",
   "author": {
     "name": "HumanMeetsAI",
@@ -20,5 +20,6 @@
   "documentationUrl": "https://cue.humanmeetsai.com/docs/mcp",
   "supportUrl": "https://cue.humanmeetsai.com/support",
   "privacyPolicyUrl": "https://cue.humanmeetsai.com/privacy",
-  "termsOfServiceUrl": "https://cue.humanmeetsai.com/terms"
+  "termsOfServiceUrl": "https://cue.humanmeetsai.com/terms",
+  "repository": "https://github.com/HumanMeetsAi/cue-plugins"
 }
