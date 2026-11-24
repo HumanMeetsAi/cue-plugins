@@ -1,0 +1,24 @@
+{
+  "name": "cue",
+  "displayName": "cue",
+  "version": "1.0.0",
+  "description": "Create, edit, and publish animated presentations and print-ready documents on cue. Connect your account to work on decks, share them, and review reader feedback.",
+  "author": {
+    "name": "HumanMeetsAI",
+    "url": "https://cue.humanmeetsai.com"
+  },
+  "homepage": "https://cue.humanmeetsai.com",
+  "keywords": [
+    "presentations",
+    "decks",
+    "documents",
+    "publishing",
+    "speaker",
+    "slides"
+  ],
+  "icon": "./assets/cue-mark-512.png",
+  "documentationUrl": "https://cue.humanmeetsai.com/docs/mcp",
+  "supportUrl": "https://cue.humanmeetsai.com/support",
+  "privacyPolicyUrl": "https://cue.humanmeetsai.com/privacy",
+  "termsOfServiceUrl": "https://cue.humanmeetsai.com/terms"
+}

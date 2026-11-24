@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cue": {
+      "type": "http",
+      "url": "https://cue.humanmeetsai.com/mcp"
+    }
+  }
+}

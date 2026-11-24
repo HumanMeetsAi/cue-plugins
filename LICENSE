@@ -1,0 +1,56 @@
+Cue Plugin License
+Version 1.0 — 24 November 2026
+
+Copyright (c) 2026 HUMANMEETSAI PTE. LTD. (UEN 201901706Z).
+All rights reserved except as expressly granted below.
+
+1. Scope
+
+This license applies to the Cue integration package in which it is included:
+its skill instructions, integration configuration, documentation, and bundled
+Cue icon (the "Package"). It does not apply to, or grant access to the source
+code of, Cue's hosted service, backend, applications, or other products.
+
+2. Permitted use
+
+HUMANMEETSAI PTE. LTD. grants you a non-exclusive, worldwide, royalty-free
+permission to download, install, copy as reasonably necessary for installation
+and backup, and use the Package solely to connect to and use Cue through a
+compatible AI assistant or agent. You may use the included Cue icon solely to
+identify Cue within this integration. Use of the hosted Cue service remains
+subject to its applicable terms, account permissions, and service limits at
+https://cue.humanmeetsai.com/terms.
+
+3. Rights reserved
+
+This is a proprietary license, not an open-source license. No ownership is
+transferred. Except for the permission above, applicable law, the applicable
+terms of a platform hosting an authorized copy of this Package, or separate
+written permission from HUMANMEETSAI PTE. LTD., you may not distribute, sell,
+sublicense, publish modified versions of, or use the Package to provide another
+product or service. No general license to Cue or HumanMeetsAI trademarks or
+branding is granted. Do not remove or obscure this license or other ownership
+notices. This license does not restrict ownership or permitted use of your own
+content created with Cue.
+
+4. Authorized distribution
+
+HUMANMEETSAI PTE. LTD. may distribute the Package through its own channels and
+software directories it authorizes. The permissions granted to a directory
+operator under the terms accepted by HUMANMEETSAI PTE. LTD. for that distribution
+are not limited by this end-user license.
+
+5. No warranty
+
+To the extent permitted by applicable law, the Package is provided "as is" and
+"as available", without warranties of any kind, express or implied, including
+merchantability, fitness for a particular purpose, and non-infringement. To the
+same extent, HUMANMEETSAI PTE. LTD. is not liable for indirect, incidental,
+special, or consequential loss arising from use of the Package. Nothing here
+excludes rights or liability that cannot lawfully be excluded. The terms of
+the hosted Cue service govern that service separately.
+
+6. Contact
+
+Questions about this license or requests for other permissions:
+https://cue.humanmeetsai.com/support
